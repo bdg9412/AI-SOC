@@ -23,6 +23,11 @@ Splunk, n8n, LLM을 연계하여 **Alert Triage, Context Enrichment, 침해사�
 - **보완:** PowerShell 중심 분석 구조를 다양한 Alert 유형에 적용 가능한 범용 구조로 확장
 - **목표:** 다양한 보안 이벤트를 자율적으로 조사하고, 중요 대응은 분석가가 통제하는 SOC 자동화 체계 구축
 
+### 진행 일정
+- 2026.07 ~ 2026.07 : Encode Powershell 시나리오 특화된 침해사고 분석 PoC
+- 2026.08.01 ~ 2026.08.17 : Generic Triage Multi-Agent SOC Framework 기획
+- 2026.0817 ~ : 구현 
+
 ## Development Roadmap
 
 ### Phase 1. Alert Triage & Context Enrichment
