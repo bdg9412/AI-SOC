@@ -4,6 +4,13 @@ AI 기반 SOC 자동화 체계 연구 프로젝트
 
 Splunk, n8n, LLM을 연계하여 **Alert Triage, Context Enrichment, 침해사고 분석 및 대응 자동화**를 연구합니다.
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+</p>
+
 ## Multi-Agent 기반 SOC
 
 ### Tech Stack
