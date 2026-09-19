@@ -18,6 +18,8 @@ Splunk, n8n, LLM을 연계하여 **Alert Triage, Context Enrichment, 침해사�
 
 ## Overview
 
+<img width="2056" height="1138" alt="image" src="https://github.com/user-attachments/assets/9eebd64e-a74b-4096-b3e7-cd5dbab56621" />
+
 기존 SOC 환경에서는 탐지 이벤트 발생 이후 보안 분석가가 직접 관련 로그를 조회하고,
 Context를 수집한 뒤 True Positive / False Positive 여부를 판단합니다.
 
